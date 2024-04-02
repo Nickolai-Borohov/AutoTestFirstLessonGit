@@ -12,7 +12,7 @@ public class App {
 //
 //        Transport transport = new Transport("Ferrari", 150, 250, 200);
 //        String model = transport.getModel();
-
+            int abc =0;
         Car car = new Car("Lambo", 250, 350, 300);
         Bus bus = new Bus("Velik", 350, 450, 400);
         Battery battery = new Battery (9000);
